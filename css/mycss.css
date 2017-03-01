@@ -11,12 +11,10 @@ header
 {
     color: #4717F6;
 }
-
 hr.star-light:after
 {
     background: #4717F6;
 }
-
 a,
 a:hover,
 a:focus,
@@ -25,52 +23,43 @@ a.active
 {
   color: #4717F6;
 }
-
 .navbar-custom .navbar-nav li a:hover
 {
   color: #4717F6;
   outline: none;
 }
-
 .navbar-custom .navbar-nav li.active a 
 {
   background: #4717F6;
 }
-
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus 
 {
   background-color: #4717F6;
   border-color: #4717F6;
 }
-
 section.success
 {
   background: #4717F6;
 }
-
 #portfolio .portfolio-item .portfolio-link .caption 
 {
   background: rgba(71, 23, 246, 0.9);
 }
-
 .btn-success 
 {
   background-color: #4717F6;
   border-color: #4717F6;
 }
-
 fieldset[disabled] .btn-success.active 
 {
   background-color: #4717F6;
   border-color: #4717F6;
 }
-
 .btn-success .badge
 {
   color: #4717F6;
 }
-
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
@@ -78,27 +67,22 @@ fieldset[disabled] .btn-success.active
 {
   color: #4717F6;
 }
-
 .resumeRow
 {
       background-color:#4717F6;
 }
-
 footer .footer-above 
 {
     background-color:rgb(35,35,35);
 }
-
 footer .footer-below 
 {
    background-color:rgb(27,27,27);
 }
-
 #contact
 {
     background-color: #4717F6;
 }
-
 .col-lg-13 > h2
 {
     color:white;
@@ -117,7 +101,6 @@ footer .footer-below
   background-color: #d6d4d6;
   border-color: #d6d4d6;
 }
-
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active 
@@ -125,13 +108,11 @@ footer .footer-below
   color: white;
   background: #4717F6;
 }
-
 .modal-content
 {
     background-color:#232323;
     color:white;
 }
-
 hr.star-primary
 {
     border-color:#232323;
@@ -140,8 +121,6 @@ hr.star-primary:after
 {
     color:#232323;
 }
-
-
 hr.star-primary2 {
   border-color: white;
 }
@@ -169,7 +148,6 @@ hr.star-primary2:after {
   font-size: 2em;
   padding: 0 0.25em;
 }
-
 .portfolio-modal .close-modal .lr
 {
     background-color:white;
@@ -179,7 +157,6 @@ hr.star-primary2:after {
 {
     background-color:white;
 }
-
 #hobbies .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -227,4 +204,18 @@ hr.star-primary2:after {
   #hobbies .portfolio-item {
     margin: 0 0 30px;
   }
+}
+.floating-label-form-group-with-focus label {
+  color: white;
+}
+textArea , input
+{
+    color:white;
+}
+textarea:focus, input:focus {
+    color: white;
+}
+.form-control
+{
+    color:white;
 }
